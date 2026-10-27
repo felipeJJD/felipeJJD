@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="640" height="414" viewBox="0 0 640 414" role="img" aria-label="Cartão de apresentação de felipeJJD">
+<rect width="640" height="414" rx="10" fill="#0d1117" stroke="#30363d"/>
+<path d="M0 10a10 10 0 0 1 10-10h620a10 10 0 0 1 10 10v26H0z" fill="#161b22"/>
+<circle cx="22" cy="18" r="6" fill="#D7262B"/><circle cx="42" cy="18" r="6" fill="#d29922"/><circle cx="62" cy="18" r="6" fill="#4C7BF4"/>
+<g font-family="Consolas,'DejaVu Sans Mono','Courier New',monospace" font-size="15" xml:space="preserve">
+<text x="320.0" y="23" text-anchor="middle" fill="#8b949e" font-size="12">felipeJJD@lipenation: ~</text>
+<g opacity="1"><text x="24" y="56" fill="#8b949e">$ </text><text x="44" y="56" fill="#c9d1d9">neofetch</text></g>
+<g opacity="1"><text x="24" y="86" font-weight="bold"><tspan fill="#4C7BF4">felipeJJD</tspan><tspan fill="#8b949e">@</tspan><tspan fill="#D7262B">lipenation</tspan></text></g>
+<rect x="24" y="92" width="180" height="1" fill="#8b949e" opacity="0.5"/>
+<g opacity="1"><text x="24" y="118" fill="#4C7BF4" font-weight="bold">Role</text><text x="174" y="118" fill="#c9d1d9">Programador Full Stack</text></g>
+<g opacity="1"><text x="24" y="144" fill="#4C7BF4" font-weight="bold">Formação</text><text x="174" y="144" fill="#c9d1d9">Engenharia de Software</text></g>
+<g opacity="1"><text x="24" y="170" fill="#4C7BF4" font-weight="bold">Especialidade</text><text x="174" y="170" fill="#c9d1d9">Inteligência Artificial</text></g>
+<g opacity="1"><text x="24" y="196" fill="#4C7BF4" font-weight="bold">Foco</text><text x="174" y="196" fill="#c9d1d9">IA · agentes</text></g>
+<g opacity="1"><text x="24" y="222" fill="#4C7BF4" font-weight="bold">Stack</text><text x="174" y="222" fill="#c9d1d9">TypeScript · JavaScript · Python · Swift</text></g>
+<g opacity="1"><text x="24" y="248" fill="#4C7BF4" font-weight="bold">IA</text><text x="174" y="248" fill="#c9d1d9">Claude Code · agentes · MCP</text></g>
+<g opacity="1"><text x="24" y="274" fill="#4C7BF4" font-weight="bold">Vídeo</text><text x="174" y="274" fill="#c9d1d9">Remotion · ffmpeg · motion</text></g>
+<g opacity="1"><text x="24" y="300" fill="#4C7BF4" font-weight="bold">Instagram</text><text x="174" y="300" fill="#c9d1d9">@astro_lipenation</text></g>
+<g opacity="1"><text x="24" y="326" fill="#4C7BF4" font-weight="bold">GitHub</text><text x="174" y="326" fill="#c9d1d9">github.com/felipeJJD</text></g>
+<g opacity="1"><text x="24" y="352" fill="#4C7BF4" font-weight="bold">Mood</text><text x="174" y="352" fill="#c9d1d9">Fanático pelo desconhecido</text></g>
+<g opacity="1"><rect x="24" y="380" width="22" height="14" fill="#D7262B"/><rect x="50" y="380" width="22" height="14" fill="#d29922"/><rect x="76" y="380" width="22" height="14" fill="#3fb950"/><rect x="102" y="380" width="22" height="14" fill="#4C7BF4"/><rect x="128" y="380" width="22" height="14" fill="#a371f7"/><rect x="154" y="380" width="22" height="14" fill="#c9d1d9"/></g>
+</g></svg>
