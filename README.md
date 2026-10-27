@@ -19,6 +19,8 @@
 
 <img src="assets/heatmap.svg" alt="Contribuições no último ano" width="860">
 
+<img src="assets/skyline.svg" alt="Skyline 3D das contribuições" width="860">
+
 <br>
 
 <table>
